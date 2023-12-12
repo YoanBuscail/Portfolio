@@ -37,9 +37,9 @@ Bienvenue sur TripBuddy, votre compagnon de voyage ultime ! TripBuddy est un sit
 
 ## Captures d'écran
 
-![Capture d'écran Itinéraire](/public/assets/map8.png)
+![Capture d'écran Itinéraire](/assets/map8.png)
 
-![Capture d'écran Profil](/public/assets/profil.png)
+![Capture d'écran Profil](/assets/profil.png)
 
 ## Technologies Utilisées
 
